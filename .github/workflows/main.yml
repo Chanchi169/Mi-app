@@ -1,4 +1,4 @@
-name: Mi Aplicacion Stitch
+name: "Mi Aplicacion Stitch"
 on:
   push:
     branches: [ "principal" ]
